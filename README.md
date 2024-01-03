@@ -1,16 +1,21 @@
-### Hi there 👋
+# Welcome
 
-<!--
-**mjbradvica/mjbradvica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Writings
 
-Here are some ideas to get you started:
+Blog - :notebook: I typically [cover topics](https://michaelbradvica.com/) such as refactoring, good engineering practices, and automated testing for dotnet and front-end frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Libraries :book:
+
+NPredicateBuilder - :construction: A predicate builder for dotnet that works with LINQ to Objects and Entities.
+
+ChainStrategy - :link: An implementation of the Chain of Responsibility and Strategy patterns.
+
+MediatorBuddy - :couple: An opinionated implementation of [MediatR](https://github.com/jbogard/MediatR).
+
+## Currently Under Development :gear:
+
+These are currently under active development.
+
+RapidLaunch - :rocket: Basic CRUD for ADO.NET
+
+EazyInput - :memo: Fully featured inputs for React, Vue, and Angular.
