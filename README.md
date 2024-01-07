@@ -10,7 +10,7 @@ NPredicateBuilder - :construction: A predicate builder for dotnet that works wit
 
 ChainStrategy - :link: An implementation of the Chain of Responsibility and Strategy patterns.
 
-MediatorBuddy - :couple: An opinionated implementation of [MediatR](https://github.com/jbogard/MediatR).
+MediatorBuddy - :couple: An opinionated application of [MediatR](https://github.com/jbogard/MediatR).
 
 ## Currently Under Development :gear:
 
